@@ -1,6 +1,6 @@
-#IPL Predictor
+# IPL Predictor
 
-#Authors: Haramrit Singh Khurana, Neel Narvankar
+## Authors: Haramrit Singh Khurana, Neel Narvankar
 
 - report folder contains the pdf report of the project.
 - src has all the data and the python notebooks. 
